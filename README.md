@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adityaw12
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on web development start-up.
+- 👀 I’m interested in Data Science & web development 
+- 🌱 I’m currently learning ML & Data Science Techniques
+- 💞️ I’m looking to opportunity in Data Science and Web Development.
 - 📫 How to reach me aditya.dw@somaiya.edu
 
 
